@@ -1,3 +1,0 @@
-displayName = Burd's Pack
-author = RT, JCL, ChefFlipSide
-version = 0.1
