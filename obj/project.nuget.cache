@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Udewt41ubMD2htbySZc0HRp3NGOIuT9BUnau9cKSEnMAR2ZqJf91N1TZ7TudQB3xD4CXwW2PZlNi7edqnDjKgA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ShirtyDiamond33\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BurdsPackTerrariaMod\\BurdsPackTerrariaMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShirtyDiamond33\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

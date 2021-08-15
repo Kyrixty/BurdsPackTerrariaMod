@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\ShirtyDiamond33\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BurdsPackTerrariaMod\\BurdsPackTerrariaMod.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\ShirtyDiamond33\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BurdsPackTerrariaMod\\BurdsPackTerrariaMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ShirtyDiamond33\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BurdsPackTerrariaMod\\BurdsPackTerrariaMod.csproj",
+        "projectName": "BurdsPackTerrariaMod",
+        "projectPath": "c:\\Users\\ShirtyDiamond33\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BurdsPackTerrariaMod\\BurdsPackTerrariaMod.csproj",
+        "packagesPath": "C:\\Users\\ShirtyDiamond33\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ShirtyDiamond33\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BurdsPackTerrariaMod\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ShirtyDiamond33\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
