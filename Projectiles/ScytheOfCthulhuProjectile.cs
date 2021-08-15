@@ -14,7 +14,7 @@ namespace BurdsPackTerrariaMod.Projectiles
         private int fadeScale; // Defined in SetDefaults, states how fast the projectile fades (lower value = fade sooner).
         public override void SetDefaults()
         {
-            projectile.width = 12;
+            projectile.width = 50;
             projectile.height = 50;
             projectile.penetrate = 30;
             projectile.friendly = true;
@@ -32,7 +32,7 @@ namespace BurdsPackTerrariaMod.Projectiles
         public override void AI()
         {
             // Dust trail
-            Dust.NewDust(projectile.position + projectile.velocity, projectile.width, projectile.height, 21, projectile.velocity.X * -0.5f, projectile.velocity.Y * -0.5f); // Create dust trail following projectile (15 is the dust, change for a different type)
+            //Dust.NewDust(projectile.position + projectile.velocity, projectile.width, projectile.height, 21, projectile.velocity.X * -0.5f, projectile.velocity.Y * -0.5f); // Create dust trail following projectile (15 is the dust, change for a different type)
             
             // Lighting (purple is 1 part red, 0 parts green, 1 part blue (1:0:1))
             Lighting.AddLight(projectile.position, 1f, 0f, 1f);
