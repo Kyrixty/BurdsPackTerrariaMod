@@ -1,7 +1,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace TestingShitOutMan.Items
+namespace BurdsPackTerrariaMod.Items
 {
 	public class ScytheOfCthulhu : ModItem
 	{

@@ -5,7 +5,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace TestingShitOutMan.Projectiles
+namespace BurdsPackTerrariaMod.Projectiles
 {
     public class ScytheOfCthulhuProjectile : ModProjectile
     {
